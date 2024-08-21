@@ -16,6 +16,7 @@ cd language-detection-translation
 pip install Flask googletrans==4.0.0-rc1
 ```
 <br/>
+
 ## Usage
 1. Navigate to the project directory.
 2. Run the Flask application:
