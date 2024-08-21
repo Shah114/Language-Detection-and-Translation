@@ -8,6 +8,7 @@ This project is a web-based application that detects the language of a given tex
 * Simple Web Interface: User-friendly design with intuitive controls. <br/>
 <br/>
 
+## Installation
 ```python
 git clone https://github.com/Shah114/language-detection-translation.git
 cd language-detection-translation
