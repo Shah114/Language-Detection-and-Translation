@@ -25,9 +25,11 @@ def trans():
     if request.method == "POST":
         text = request.form['text']
         target_lang = request.form['target_lang']
+        input_text = text
+        selected_lang = target_lang
 
         detected_lang, translation = detect_and_translate(text, target_lang)
-    return render_template('index.html', translation=translation, detected_lang=detected_lang, languages=LANGUAGES)
+    return render_template('index.html', translation=translation, detected_lang=detected_lang, languages=LANGUAGES, input_text=input_text, selected_lang=selected_lang)
 
 if __name__ == '__main__':
     app.run(debug=True)
