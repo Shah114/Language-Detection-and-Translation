@@ -6,7 +6,7 @@ This project is a web-based application that detects the language of a given tex
 
 ## Features
 * Language Detection: Automatically detects the language of the input text.
-* Text Translation: Translates the input text into the selected target language.
+* Text Translation: Translates the input text into the selected target language using either the googletrans or easygoogletranslate module.
 * Simple Web Interface: User-friendly design with intuitive controls. <br/>
 <br/>
 
