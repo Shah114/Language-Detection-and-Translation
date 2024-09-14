@@ -9,6 +9,7 @@ This project is a web-based application that detects the language of a given tex
 <br/>
 
 ## Installation
+
 ```python
 git clone https://github.com/Shah114/language-detection-translation.git
 cd language-detection-translation
@@ -20,11 +21,12 @@ pip install Flask googletrans==4.0.0-rc1
 ## Usage
 1. Navigate to the project directory.
 2. Run the Flask application:
+   
    ```bash
    python app.py
    ```
-3. Open your web browser and go to http://***.*.*.*:****/.
-4. Enter the text you want to analyze and select the target language for translation. <br/>
+4. Open your web browser and go to http://***.*.*.*:****/.
+5. Enter the text you want to analyze and select the target language for translation. <br/>
 <br/>
 
 ## Contributing
