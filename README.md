@@ -1,5 +1,7 @@
 ## Language-Detection-and-Translation
-This project is a web-based application that detects the language of a given text and translates it into the desired target language. The application is built using the Flask web framework and utilizes the googletrans module for language detection and translation. The user interface is crafted with HTML to ensure a smooth and user-friendly experience. <br/>
+This project is a web-based application that detects the language of a given text and translates it into the desired target language. The application is built using the Flask web framework and utilizes the googletrans module for language detection and translation. The user interface is crafted with HTML to ensure a smooth and user-friendly experience. The application provides two translation options: <br/>
+* app.py: Uses the googletrans module.
+* app_2.py: Uses the easygoogletranslate module. <br/>
 <br/>
 
 ## Features
