@@ -21,12 +21,19 @@ pip install Flask googletrans==4.0.0-rc1
 <br/>
 
 ## Usage
-1. Navigate to the project directory.
-2. Run the Flask application:
-   
-   ```bash
-   python app.py
-   ```
+Navigate to the project directory. <br/>
+** Option 1: Using googletrans (app.py) ** <br/>
+Run the Flask application: <br/>
+```bash
+python app.py
+```
+<br/>
+Open your web browser and go to http://localhost:5000/. <br/>
+
+** Option 2: Using easygoogletranslate (app_2.py) **
+
+
+
 4. Open your web browser and go to http://***.*.*.*:****/.
 5. Enter the text you want to analyze and select the target language for translation. <br/>
 <br/>
