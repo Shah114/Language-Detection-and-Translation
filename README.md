@@ -27,15 +27,14 @@ Run the Flask application: <br/>
 ```bash
 python app.py
 ```
+Open your web browser and go to http://localhost:5000/. 
 <br/>
-Open your web browser and go to http://localhost:5000/. <br/>
 
 * Option 2: Using easygoogletranslate (app_2.py) <br/>
 Run the Flask application: <br/>
 ```bash
 python app_2.py
 ```
-<br/>
 Open your web browser and go to http://localhost:5000/. <br/>
 
 Enter the text you want to analyze and select the target language for translation. <br/>
