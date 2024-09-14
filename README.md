@@ -22,7 +22,7 @@ pip install Flask googletrans==4.0.0-rc1
 
 ## Usage
 Navigate to the project directory. <br/>
-** Option 1: Using googletrans (app.py) ** <br/>
+* Option 1: Using googletrans (app.py) <br/>
 Run the Flask application: <br/>
 ```bash
 python app.py
