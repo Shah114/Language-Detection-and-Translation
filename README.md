@@ -40,6 +40,12 @@ Open your web browser and go to http://localhost:5000/. <br/>
 Enter the text you want to analyze and select the target language for translation. <br/>
 <br/>
 
+## How to use
+* Enter the text you want to analyze.
+* Select the target language for translation.
+* Get the detected language and translated text. <br/>
+<br/>
+
 ## Contributing
 Feel free to submit issues or pull requests. For major changes, please open an issue first to discuss what you would like to change. <br/>
 <br/>
